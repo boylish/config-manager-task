@@ -1,12 +1,12 @@
 # 🧩 Configuration Manager
 
-A full-stack MERN application to **fetch a 2D symbol grid** and **update remarks** based on a `configId`. This project is built for internal configuration management, using data stored in a MongoDB collection.
+A full-stack MERN application to **fetch a 2D Array** and **update remarks** based on a `configId`.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Fetch a 3x3 symbol grid using `configId`
+- 🔍 Fetch a 3x3 2D Array `configId`
 - 📝 Update `remark` using a simple UI
 - 🌐 Built with **React**, **Node.js**, **Express**, and **MongoDB**
 - 📦 RESTful API with clean structure
@@ -36,3 +36,18 @@ A full-stack MERN application to **fetch a 2D symbol grid** and **update remarks
 
 ## 📁 Folder Structure
 
+/frontend → React frontend
+/backend → Express backend
+|__ models
+|__ routes
+|__ server.js
+
+---
+
+## ⚙️ Environment Setup
+
+### 🔐 Create a `.env` file inside the `backend/` directory with the following:
+
+```env
+MONGO_URI=mongodb+srv://<your-username>:<your-password>@cluster.mongodb.net/database
+PORT=8080
