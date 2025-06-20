@@ -34,6 +34,23 @@ A full-stack MERN application to **fetch a 2D Array** and **update remarks** bas
 
 ---
 
+## 📸 Scrrenshots
+
+1- ![Screenshot 2025-06-20 115358](https://github.com/user-attachments/assets/e8ad58cf-08c4-4eaf-9b20-df65be55b34c)
+
+
+2- ![Screenshot 2025-06-20 115449](https://github.com/user-attachments/assets/6add39bb-bb49-4fb9-9225-79a5a31bd1a3)
+
+
+3- ![Screenshot 2025-06-20 115530](https://github.com/user-attachments/assets/ffaecb53-acb0-43ef-85b3-9fc60358139b)
+
+
+4- ![Screenshot 2025-06-20 115750](https://github.com/user-attachments/assets/c40a2df6-5342-4f0d-a964-9f5c536a57bb)
+
+
+
+---
+
 ## 📁 Folder Structure
 
 - /frontend → React frontend
