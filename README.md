@@ -48,6 +48,6 @@ A full-stack MERN application to **fetch a 2D Array** and **update remarks** bas
 
 ### 🔐 Create a `.env` file inside the `backend/` directory with the following:
 
-```
+```env
 MONGO_URI=mongodb+srv://<your-username>:<your-password>@cluster.mongodb.net/database
 PORT=8080
