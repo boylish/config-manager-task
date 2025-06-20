@@ -34,7 +34,7 @@ A full-stack MERN application to **fetch a 2D Array** and **update remarks** bas
 
 ---
 
-##  Folder Structure
+## 📁 Folder Structure
 
 /frontend → React frontend
 /backend → Express backend
