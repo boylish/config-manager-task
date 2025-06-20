@@ -4,6 +4,10 @@ A full-stack MERN application to **fetch a 2D Array** and **update remarks** bas
 
 ---
 
+The application is deployed and uses my own MongoDB database with sample data:
+
+🔗 https://configurationmanager.netlify.app/
+
 ##  Features
 
 - Fetch a 3x3 2D Array `configId`
